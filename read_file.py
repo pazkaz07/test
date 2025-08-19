@@ -10,5 +10,5 @@ def read_file(filename):
 
 
 if __name__ == "__main__":
-    filename = "example.txt"  # replace with your file name
+    filename = "example1.txt"  # replace with your file name
     read_file(filename)
